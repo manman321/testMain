@@ -1,4 +1,8 @@
 # wahaha
 iss53 index.html
 new infomation
+<<<<<<< HEAD
 master 
+=======
+iss53 
+>>>>>>> iss53
